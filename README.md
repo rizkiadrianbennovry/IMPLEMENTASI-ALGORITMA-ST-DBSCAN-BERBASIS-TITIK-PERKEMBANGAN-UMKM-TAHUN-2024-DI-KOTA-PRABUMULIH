@@ -1,6 +1,4 @@
-# **Implementasi Model Transfer Learning Arsitektur ConvNeXt untuk Klasifikasi Suara Burung di Taman Nasional Way Kambas- Kelompok 13 (Avcla)**
-
-![Untitled-1](https://github.com/user-attachments/assets/c3e9de01-3ee7-416d-a2dd-a09cc909d6ca)
+# **IMPLEMENTASI ALGORITMA ST-DBSCAN BERBASIS TITIK PERKEMBANGAN UMKM (USAHA MIKRO, KECIL, dan MENENGAH) TAHUN 2024 DI PUSAT KOTA PRABUMULIH**
 
 ## Kelompok 4 Analisis Data Spasial
 
